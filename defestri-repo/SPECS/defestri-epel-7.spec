@@ -7,8 +7,8 @@ Group:
 License:	GPLv2
 URL:		http://repo.defestri.org/pub/epel
 #Source0:	GPG key
-#Source1:	GPL license
-#Source2:	defestri-epel.repo
+Source1:	GPL
+Source2:	defestri-epel.repo
 
 BuildRequires:	
 BuildArch:	noarch
